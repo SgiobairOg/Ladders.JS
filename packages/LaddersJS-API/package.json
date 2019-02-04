@@ -1,0 +1,26 @@
+{
+  "name": "laddersjs-api",
+  "version": "1.0.0",
+  "description": "API Server for Ladders-based games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SgiobairOg/Ladders.JS/packages/LaddersJS-API"
+  },
+  "keywords": [
+    "games"
+  ],
+  "author": "Jason Wilson <jason@wilsons.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "c8": "^3.4.0",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
