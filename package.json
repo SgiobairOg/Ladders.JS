@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.10.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SgiobairOg/Ladders.JS.git"
+  },
+  "author": "Jason Wilson <jason@wilsons.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SgiobairOg/Ladders.JS/issues"
+  },
+  "homepage": "https://github.com/SgiobairOg/Ladders.JS#readme"
+}
