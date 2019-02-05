@@ -1,6 +1,6 @@
 const expect = require("chai").expect;
 
-const { ping } = require("../../routes/health");
+const { ping } = require("./../routes/health");
 
 let req = {
   body: {}
